@@ -1,2 +1,11 @@
 # Code-and-Current-Blogs
-This repository is a growing collection of my articles on tech and the web.
+
+A personal collection of tech writeups to simplify web and programming concepts. I write to learn better and share what I discover along the way.
+
+## 💡 Why This Repo?
+
+Writing helps me understand tech deeply. These articles are my way of learning, reflecting, and helping others who are just starting out.
+
+## 🔗 Read More
+
+Explore full articles on my blog: [saksham.hashnode.dev](https://saksham.hashnode.dev)
