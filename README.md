@@ -8,4 +8,4 @@ Writing helps me understand tech deeply. These articles are my way of learning, 
 
 ## 🔗 Read More
 
-Explore full articles on my blog: [saksham.hashnode.dev](https://saksham.hashnode.dev)
+Explore full articles on my blog: [saksham.hashnode.dev]([https://saksham.hashnode.dev](https://codealpha.hashnode.dev/))
